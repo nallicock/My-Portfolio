@@ -1,4 +1,10 @@
-# AngularSideProject
+# My Portfolio
+
+This is the code for my personal portfolio. It was created using Angular (HTML, CSS, JS, TypeScript).
+
+
+
+# My Portfolio Angular Instructions:
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.4.
 
